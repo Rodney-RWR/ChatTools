@@ -1,2 +1,2 @@
 # ChatTools
-Rename Of AdvancedChat
+## Rename Of AdvancedChat - A Skript to aid your servers chat!
